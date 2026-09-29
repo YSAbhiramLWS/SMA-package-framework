@@ -110,7 +110,7 @@ The system consists of the following major logical components:
                           |
                 +---------v----------+
                 | Package Validation |
-                +-------5--+----------+
+                +---------+----------+
                           |
                 +---------v----------+
                 | Package Access      |
